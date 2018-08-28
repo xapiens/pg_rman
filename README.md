@@ -84,7 +84,8 @@ Go to the top directory of pg_rman source tree and run the following commands:
 
 The following packages need to be installed as a prerequisite.
 
-* zlib-devel
+* zlib-devel libselinux1-dev
+
 
 
 How to run regression tests
