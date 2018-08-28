@@ -87,6 +87,7 @@ The following packages need to be installed as a prerequisite.
 * zlib-devel 
 * libselinux1-dev (debian)
 * libpam0g-dev (debian)
+* libedit-dev (debian)
 
 
 How to run regression tests
